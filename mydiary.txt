@@ -1,1 +1,2 @@
-Hello, I'm Shardul kc
+This is just a dummy paragraph.
+Just testing out git for now.
